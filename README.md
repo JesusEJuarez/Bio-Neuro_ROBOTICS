@@ -9,7 +9,9 @@ This repository contains Python and Matlab projects in the fields of bio and neu
 - [Bio-Robotics Project 3](bio_robotics/project3.m)
 
 ## Neuro-Robotics Projects
+### Path planing
 
-- [Neuro-Robotics Project A](neuro_robotics/projectA.py)
-- [Neuro-Robotics Project B](neuro_robotics/projectB.m)
-- [Neuro-Robotics Project C](neuro_robotics/projectC.py)
+
+- [Random Path Generator](neuro_robotics/projectA.py)
+- [potential fields](neuro_robotics/projectB.m)
+- [Random Walk](neuro_robotics/projectC.py)
