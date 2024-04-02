@@ -13,5 +13,6 @@ This repository contains Python and Matlab projects in the fields of bio and neu
 
 
 - [Random Path Generator](neuro_robotics/RPG.py)
+  
 - [Potential fields](neuro_robotics/projectB.m)
 - [Random Walk](neuro_robotics/projectC.py)
